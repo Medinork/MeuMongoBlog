@@ -1,6 +1,9 @@
 # MeuMongoBlog
 Projeto de FullStack usando o Banco MongoDB e React
 
+IMPORTANTE!!!
+MongoDb deve estar instalado na sua maquina local
+
 Front End:
 Ao clonar o repositorio abra o terminal e entre no repositorio
 
